@@ -11,6 +11,7 @@ TagManager:
   - eleDoor
   - Controller
   - Attach
+  - buttonHole
   layers:
   - Default
   - TransparentFX

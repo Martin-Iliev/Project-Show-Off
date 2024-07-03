@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Floors/Alex Floor/BasicScene1.unity
+    guid: 464d87891691d74479fc61efb736c83f
+  - enabled: 1
     path: Assets/Floors/Andra Floor/BasicScene2.unity
     guid: 9461fabea01466741a7e76300b2dedfd
   - enabled: 1

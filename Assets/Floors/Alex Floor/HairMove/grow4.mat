@@ -59,7 +59,7 @@ Material:
     - Vector1_B75CA44E: 1.1
     - _AO: 1
     - _Grow: -0.24
-    - _Growing: -0.03
+    - _Growing: -1
     - _Metallic: 0
     - _Offset: 0.08
     - _Offset_1: 0
